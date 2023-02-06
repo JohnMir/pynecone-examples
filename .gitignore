@@ -13,3 +13,5 @@ frontend.zip
 backend.zip
 dist/*
 venv/
+pycvenv
+.idea
